@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-HOLA y adiós. (modificación hecha en guihub)
->>>>>>> f50d20bf206af38a0c048d5720e8f0da7da6de03
+HOLA y adiós.
